@@ -25,7 +25,7 @@ public class 랜덤수최대최소 {
             if (max < num) {
                 max = num;
             }
-            
+
             if(min > num){
                 min = num;
             }
